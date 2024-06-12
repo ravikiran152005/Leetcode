@@ -36,13 +36,13 @@ class Solution {
                 rem.add(arr1[m]);
             }
         }
-        int s=arr1.length-rem.size();
+        
         Collections.sort(rem);
-        System.out.println(c);
+        
         for(int x=0;x<rem.size();x++)
         {
-            ans[s]=rem.get(x);
-            s++;
+            ans[c]=rem.get(x);
+            c++;
         }
 
         return ans;
