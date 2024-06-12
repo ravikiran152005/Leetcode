@@ -1,7 +1,7 @@
 class Solution {
     public int[] relativeSortArray(int[] arr1, int[] arr2) {
         HashMap<Integer,Integer> l=new HashMap<>();
-        ArrayList<Integer> ans=new ArrayList<>();
+        int ans[]=new int[arr1.length];
         for(int i=0;i<arr2.length;i++)
         {
             l.put(arr2[i],0);
@@ -17,13 +17,16 @@ class Solution {
                 l.put(arr1[j],1);
             }
         }
+        int c=0;
         for(int k=0;k<arr2.length;k++)
         {
             for(int z=0;z<l.get(arr2[k]);z++)
             {
-                ans.add(arr2[k]);
+                ans[c]=arr2[k];
+                c++;
             }
             l.remove(arr2[k]);
+
         }
         ArrayList<Integer> rem=new ArrayList<>();
         for(int m=0;m<arr1.length;m++)
@@ -33,24 +36,15 @@ class Solution {
                 rem.add(arr1[m]);
             }
         }
+        int s=arr1.length-rem.size();
         Collections.sort(rem);
-        int a[]=new int[arr1.length];
-        int c=0;
-        int c1=0;
-        for(int f=0;f<arr1.length;f++)
+        System.out.println(c);
+        for(int x=0;x<rem.size();x++)
         {
-            if(f<ans.size())
-            {
-                a[c]=ans.get(f);
-                c++;
-            }
-            else
-            {
-                a[c]=rem.get(c1);
-                c++;
-                c1++;
-            }
+            ans[s]=rem.get(x);
+            s++;
         }
-        return a;
+
+        return ans;
     }
 }
