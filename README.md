@@ -23,6 +23,7 @@
 # Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ravikiran152005/Leetcode/tree/master/0136-single-number) |
 | [1137-height-checker](https://github.com/ravikiran152005/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/ravikiran152005/Leetcode/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ravikiran152005/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -37,3 +38,7 @@
 | ------- |
 | [1137-height-checker](https://github.com/ravikiran152005/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/ravikiran152005/Leetcode/tree/master/1217-relative-sort-array) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/ravikiran152005/Leetcode/tree/master/0136-single-number) |
