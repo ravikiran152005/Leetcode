@@ -29,6 +29,7 @@
 | [1137-height-checker](https://github.com/ravikiran152005/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/ravikiran152005/Leetcode/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ravikiran152005/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3429-special-array-i](https://github.com/ravikiran152005/Leetcode/tree/master/3429-special-array-i) |
 # Sorting
 |  |
 | ------- |
