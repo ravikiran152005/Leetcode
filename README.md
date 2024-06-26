@@ -6,6 +6,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/ravikiran152005/Leetcode/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/ravikiran152005/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/ravikiran152005/Leetcode/tree/master/0217-contains-duplicate) |
 | [1217-relative-sort-array](https://github.com/ravikiran152005/Leetcode/tree/master/1217-relative-sort-array) |
 # String
 |  |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ravikiran152005/Leetcode/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/ravikiran152005/Leetcode/tree/master/0217-contains-duplicate) |
 | [1137-height-checker](https://github.com/ravikiran152005/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/ravikiran152005/Leetcode/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ravikiran152005/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -33,6 +35,7 @@
 # Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/ravikiran152005/Leetcode/tree/master/0217-contains-duplicate) |
 | [1137-height-checker](https://github.com/ravikiran152005/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/ravikiran152005/Leetcode/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ravikiran152005/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
