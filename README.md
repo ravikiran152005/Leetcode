@@ -52,3 +52,10 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ravikiran152005/Leetcode/tree/master/0013-roman-to-integer) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/ravikiran152005/Leetcode/tree/master/1916-find-center-of-star-graph) |
+<!---LeetCode Topics End-->
