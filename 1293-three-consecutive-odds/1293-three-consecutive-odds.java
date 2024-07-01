@@ -4,10 +4,6 @@ class Solution {
         {
             return false;
         }
-        else if(arr.length==3)
-        {
-            return (arr[0]%2!=0&&arr[1]%2!=0&&arr[2]%2!=0);
-        }
         else
         {
             for(int i=0;i<=arr.length-3;i++)
