@@ -58,4 +58,8 @@
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/ravikiran152005/Leetcode/tree/master/1916-find-center-of-star-graph) |
+## Array
+|  |
+| ------- |
+| [1293-three-consecutive-odds](https://github.com/ravikiran152005/Leetcode/tree/master/1293-three-consecutive-odds) |
 <!---LeetCode Topics End-->
