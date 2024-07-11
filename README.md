@@ -62,6 +62,7 @@
 |  |
 | ------- |
 | [1293-three-consecutive-odds](https://github.com/ravikiran152005/Leetcode/tree/master/1293-three-consecutive-odds) |
+| [1803-average-waiting-time](https://github.com/ravikiran152005/Leetcode/tree/master/1803-average-waiting-time) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,4 +83,8 @@
 |  |
 | ------- |
 | [2812-find-the-maximum-achievable-number](https://github.com/ravikiran152005/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
+## Simulation
+|  |
+| ------- |
+| [1803-average-waiting-time](https://github.com/ravikiran152005/Leetcode/tree/master/1803-average-waiting-time) |
 <!---LeetCode Topics End-->
