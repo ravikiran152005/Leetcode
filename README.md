@@ -78,4 +78,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ravikiran152005/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Math
+|  |
+| ------- |
+| [2812-find-the-maximum-achievable-number](https://github.com/ravikiran152005/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 <!---LeetCode Topics End-->
