@@ -61,6 +61,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ravikiran152005/Leetcode/tree/master/0035-search-insert-position) |
 | [1293-three-consecutive-odds](https://github.com/ravikiran152005/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1803-average-waiting-time](https://github.com/ravikiran152005/Leetcode/tree/master/1803-average-waiting-time) |
 ## Hash Table
@@ -87,4 +88,8 @@
 |  |
 | ------- |
 | [1803-average-waiting-time](https://github.com/ravikiran152005/Leetcode/tree/master/1803-average-waiting-time) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/ravikiran152005/Leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
