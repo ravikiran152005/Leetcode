@@ -64,6 +64,7 @@
 | [0035-search-insert-position](https://github.com/ravikiran152005/Leetcode/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/ravikiran152005/Leetcode/tree/master/0169-majority-element) |
 | [1293-three-consecutive-odds](https://github.com/ravikiran152005/Leetcode/tree/master/1293-three-consecutive-odds) |
+| [1603-running-sum-of-1d-array](https://github.com/ravikiran152005/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1803-average-waiting-time](https://github.com/ravikiran152005/Leetcode/tree/master/1803-average-waiting-time) |
 ## Hash Table
 |  |
@@ -103,4 +104,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ravikiran152005/Leetcode/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/ravikiran152005/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
